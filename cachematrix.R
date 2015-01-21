@@ -4,7 +4,7 @@
 ## exercise.The makeCacheMatrix() function is used to cache the 
 ## value of an invertible matrix  and its inverse in two global variables.  
 ## The CacheSolve() function checks whether the inverse of the matrix passed to 
-## it already exists If it does (and the matrix 
+## it already exists. If it does (and the matrix 
 ## has not changed), it simply returns the inverse. It computes the inverse 
 ## only if it doesn't already exists.  
 
